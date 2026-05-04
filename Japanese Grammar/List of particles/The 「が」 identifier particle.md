@@ -1,4 +1,4 @@
-What if we don’t know what the topic is? The particle indicates that the speaker wants to **identify something unspecified**.
+What if we don’t know what the topic is? The particle indicates that the speaker wants to **identify something unspecified**. Only use 「が」if you want to identify something out of many other possibilities.
 ## Example 1
 
 ボブ：誰**が**学生？  
