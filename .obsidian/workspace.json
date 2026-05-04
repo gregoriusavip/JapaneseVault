@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Japanese Grammar/List of particles/The 「が」 identifier particle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "The 「が」 identifier particle"
             }
           }
         ]
@@ -184,5 +184,13 @@
     }
   },
   "active": "adc80d7dbf870dbd",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Japanese Grammar/List of particles/「は」Topic Particle.md",
+    "Japanese Grammar/List of particles/The 「も」 inclusive topic particle.md",
+    "Japanese Grammar/List of particles/The 「が」 identifier particle.md",
+    "Japanese Grammar/Expression State-of-Being.md",
+    "Japanese Grammar/Particles.md",
+    "README.md",
+    "Untitled.base"
+  ]
 }

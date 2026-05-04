@@ -16,7 +16,6 @@ Notice that it is asking who is THE student. There is a context behind the conve
     (The) student is who?
 
 The first sentence seeks to identify a specific person for “student” while the second sentence is simply talking about the student.
-
 ## Example 3
 
 1. 私**は**学生。  
