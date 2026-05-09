@@ -4,4 +4,4 @@ Particles are one or more Hiragana characters that attach to the end of a word t
 	- ## [[The 「も」 inclusive topic particle]]
 	- ## [[The 「が」 identifier particle]]
 		- ## [[The 「が」 identifier particle#^5b825b|が vs は]]
-	- ## [Practice(Tae Kim's)](https://guidetojapanese.org/learn/grammar/particlesintro_ex))
+	- ## [Practice(Tae Kim's)](https://guidetojapanese.org/learn/grammar/particlesintro_ex)
