@@ -39,6 +39,11 @@ The conjugation rules for na-adjectives are the same as nouns.
     Person that liked fish.
 4. 魚が**好きじゃなかった**人。  
     Person that did not like fish.
+### Descriptive Noun
+1. **⿂が好きじゃない⼈**は、⾁が好きだ。
+	Person who does not like fish like meat.
+2. **⿂が好きな⼈**は、野菜も好きだ。
+	Person who likes fish also like vegetables.
 
 ## The i-adjective
 
@@ -55,3 +60,39 @@ The conjugation rules for na-adjectives are the same as nouns.
     Hated food.
 2. おいしい食べ物。  (i-adjective)
     Tasty food.
+
+==**Do NOT attach** 「だ」 **to i-adjectives**==
+
+### Conjugation rules for i-adjectives
+
+### **Negative**: 
+1. Remove the trailing「い」from the i-adjective
+2. Attach 「くない」
+Example: ⾼**い** → ⾼**くない**
+
+### Past-tense:
+1. Remove the trailing 「い」 from the i-adjective or negative i-adjective
+2. Attach 「かった」
+Examples:
+- ⾼**い** → ⾼**かった**
+- ⾼くな**い** → ⾼くな**かった**
+
+|              | **Positive** | **Negative** |
+| ------------ | ------------ | ------------ |
+| **Non-Past** | ⾼い           | ⾼くない         |
+| **Past**     | ⾼かった         | ⾼くなかった       |
+
+**Examples**
+1. **⾼い**ビル。
+	Tall building.
+2. **⾼くない**ビル。
+	Not tall building.
+3. **⾼かった**ビル。
+	Building that was tall.
+4. **⾼くなかった**ビル。
+	Building that was not tall.
+
+### Descriptive Noun
+- **値段が⾼いレストラン**はあまり好きじゃない。
+	Don't like high price restaurants very much.
+
